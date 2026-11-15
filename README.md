@@ -1,4 +1,4 @@
-# Airline Operations Console
+# AviaGo
 
 **A full reservation workflow, from recurring flight schedules to seat holds, ticketing, cancellations, and revenue reporting.**
 
@@ -190,8 +190,8 @@ Each booking refers to one selected flight seat. The account UI groups related r
 ### Installation
 
 ```bash
-git clone https://github.com/Bilolini/cse305-airline-console.git
-cd cse305-airline-console
+git clone https://github.com/Bilolini/aviago.git
+cd aviago
 npm ci
 ```
 
